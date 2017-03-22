@@ -1,0 +1,194 @@
+/*** sectioning elements ***/
+
+body {
+  font-family:'Open Sans', sans-serif;
+}
+
+header {
+  background-color: #003b6e;
+  font-family:'Open Sans', sans-serif;
+  font-size: 15px;
+}
+
+main {
+
+}
+
+footer {
+  background-color: #003b6e;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  font-size: 50px;
+  font-family: 'Bitter', serif;
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+ text-decoration: none;
+}
+
+a:visited {
+
+}
+
+a:hover {
+  text-decoration: underline;
+
+}
+
+a:active {
+
+}
+
+/*** MY CLASSES ***/
+.mycenter {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.logo {
+  max-width: 400px;
+}
+
+.font {
+  font-family:'Open Sans', sans-serif;
+}
+
+
+/*** Colors ***/
+.whitetext {
+  color: #fff;
+}
+
+.yellowtext {
+  color: #ffd200;
+}
+
+.bluetext {
+  color: #0a63b1;
+}
+
+.darkbluebackground {
+  background-color: #003b6e;
+}
+
+.lightbluebackground {
+  background-color: #0a63b1;
+}
+
+.yellowbackground {
+  background-color: #ffd200;
+}
+
+/*** Buttons ***/
+.button-info {
+  background-color: #0a63b1;
+}
+
+.button-warning {
+  background-color: #f7bb2e;
+}
+
+
+/*** Navbars ***/
+.navbar-primary {
+  background-color: #fff;
+  font-size: 20px;
+}
+
+.navbar-secondary {
+  background-color: #ffd200;
+}
+
+.navbar-menu a:link,
+.navbar-menu a:visited {
+  color: #003b6e;
+}
